@@ -1,7 +1,3 @@
-xj@princeton.edu
-bcr@cs.washington.edu
-torralba@mit.edu
-
 This code detects rectangular cuboids in single-view images. Please see the following publication for more information:
 
 Jianxiong Xiao, Bryan C. Russell, and Antonio Torralba 
